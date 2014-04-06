@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="449"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="329" y="471" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="147" y="471" type="move" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

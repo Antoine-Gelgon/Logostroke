@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="1">
+  <advance width="485"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="415" y="0" type="move"/>
+      <point x="70" y="0" type="line"/>
+      <point x="415" y="218" type="line"/>
+      <point x="369" y="299" type="line"/>
+      <point x="289" y="345" type="line"/>
+      <point x="197" y="345" type="line"/>
+      <point x="116" y="299" type="line"/>
+      <point x="70" y="218" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-25</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>320</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

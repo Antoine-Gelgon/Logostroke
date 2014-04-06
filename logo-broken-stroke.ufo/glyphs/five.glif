@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five" format="1">
+  <advance width="445"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="342" y="346" type="move"/>
+      <point x="75" y="346" type="line"/>
+      <point x="75" y="44" type="line"/>
+      <point x="75" y="44" type="line"/>
+      <point x="156" y="90" type="line"/>
+      <point x="248" y="90" type="line"/>
+      <point x="328" y="44" type="line"/>
+      <point x="375" y="-36" type="line"/>
+      <point x="375" y="-128" type="line"/>
+      <point x="328" y="-208" type="line"/>
+      <point x="248" y="-255" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="-208" type="move"/>
+      <point x="156" y="-255" type="line"/>
+      <point x="248" y="-255" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-280</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>65</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>321</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>50</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>349</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

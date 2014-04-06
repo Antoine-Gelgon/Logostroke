@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="388"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <contour>
+      <point x="291" y="471" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="109" y="471" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="35" y="-200" type="move"/>
+      <point x="115" y="-154" type="line"/>
+      <point x="353" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="0" type="move"/>
+      <point x="40" y="347" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

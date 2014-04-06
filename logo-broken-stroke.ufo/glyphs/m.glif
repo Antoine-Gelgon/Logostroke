@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="755"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="75" y="347" type="move"/>
+      <point x="75" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="300" type="move"/>
+      <point x="380" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="219" type="move"/>
+      <point x="124" y="300" type="line"/>
+      <point x="204" y="346" type="line"/>
+      <point x="296" y="346" type="line"/>
+      <point x="380" y="300" type="line"/>
+      <point x="461" y="346" type="line"/>
+      <point x="553" y="346" type="line"/>
+      <point x="633" y="300" type="line"/>
+      <point x="680" y="219" type="line"/>
+      <point x="680" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-35</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>311</integer>
+            <key>width</key>
+            <integer>71</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>363</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>40</integer>
+            <key>width</key>
+            <integer>71</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>345</integer>
+            <key>width</key>
+            <integer>71</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>643</integer>
+            <key>width</key>
+            <integer>71</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
