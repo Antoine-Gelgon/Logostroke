@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="583"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="75" y="598" type="line"/>
+      <point x="75" y="81" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="369" y="0" type="line"/>
+      <point x="508" y="81" type="line"/>
+      <point x="507" y="596" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
